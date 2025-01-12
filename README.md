@@ -1,17 +1,7 @@
-# reVisi 🌟
+# Re-Visi
 
-## Description
-reVisi is a platform for sharing Figma designs that allows users to upload and share their design works. This website is designed to help designers and beginner programmers learn web slicing and provide various design assets such as icons and wireframes. Users can explore others' works and contribute by uploading their own creations. 🎨✨
+Re-Visi adalah platform berbasis web yang menghadirkan kumpulan desain kreatif 🎨. Di dalamnya, kamu bisa menemukan berbagai desain Figma, mulai dari UI/UX, ilustrasi, hingga wireframe 💡. Web ini dibuat untuk membantu desainer menemukan inspirasi dan berbagi karya mereka dengan mudah.
 
-## Team Name
-**Nama tidak boleh kosong** 
+✨ Dikembangkan oleh: **Muhammad Aliif Pratama** (23051214091) sebagai bagian dari tugas akhir mata kuliah Pemrograman Web. 
 
-## Team Members
-- **Krisnado Rizal K.W** - 23051214075
-- **Ahmad Awaluddin Chatamarsyah** - 23051214081 
-- **M Aliif Pratama** - 23051214091 
-
-### Website Link
-https://revisi-rek.vercel.app/
-
-### Sh00tz GayaTama Web Design Competition 🔫
+🌟 Nikmati eksplorasi desain di Re-Visi!
